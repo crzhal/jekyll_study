@@ -1,0 +1,17 @@
+test
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/README.md b/README.md
+index 0afe3b8..7fe3b79 100644
+--- a/README.md
++++ b/README.md
+@@ -2,3 +2,5 @@
+ Learning jekyll for a school project.
+ 
+ test
++
++test git
+\ No newline at end of file
